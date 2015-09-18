@@ -7,6 +7,7 @@ int m;
 cout <<"Vvedite 2 chisla\n";
 cin >>n;
 cin>>m;
-cout <<"Sum "<<n+m;
-cout <<"\nRazn "<<n-m;
+cout <<"A+B "<<n+m;
+cout <<"\nA-B "<<n-m;
+cout <<"\nA/B "<<n/m;
 }
