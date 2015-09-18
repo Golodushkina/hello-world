@@ -1,4 +1,5 @@
 #include "sdt.h"
+//Uchebnaya programma
 int main()
 {
 int n;
